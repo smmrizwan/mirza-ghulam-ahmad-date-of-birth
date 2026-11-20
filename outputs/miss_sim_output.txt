@@ -1,0 +1,14 @@
+1832-02-17 baseline 14 -> unchanged with up to two missed crescents
+1833-03-08 baseline 15 -> unchanged with up to two missed crescents
+1835-02-13 baseline 14 -> 13 needs 2 missed crescent(s); 1 combination(s):
+     1834-12-31 (q +0.43) + 1835-01-30 (q +1.20) -> 13
+1836-03-04 baseline 15 -> 14 needs 2 missed crescent(s); 1 combination(s):
+     1836-01-19 (q +0.58) + 1836-02-18 (q +1.57) -> 14
+1839-03-01 baseline 14 -> 13 needs 2 missed crescent(s); 3 combination(s):
+     1838-12-18 (q +0.58) + 1839-01-17 (q +1.95) -> 13
+     1838-12-18 (q +0.58) + 1839-02-15 (q +1.23) -> 13
+     1839-01-16 (q -0.01) + 1839-02-15 (q +1.23) -> 13
+1840-02-21 baseline 17 -> unchanged with up to two missed crescents
+1842-02-25 baseline 14 -> 13 needs 1 missed crescent(s); 1 combination(s):
+     1842-02-11 (q +0.18) -> 13
+1843-02-17 baseline 17 -> unchanged with up to two missed crescents

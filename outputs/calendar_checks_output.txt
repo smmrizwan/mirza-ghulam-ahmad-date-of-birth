@@ -1,0 +1,12 @@
+Friday      civil astro Delhi Lahore Qadian easy-only Phagan(by day)
+1832-02-17 15   16   14   14   14   14    7
+1835-02-13 14   15   14   14   14   14    4
+1839-03-01 15   16   14   14   14   14   20
+1842-02-25 14   15   14   14   14   13   16
+Aquarius entry 1839: 1839-02-10 21:48
+q 1835-01-29 Delhi -0.41 Lahore -0.44 Qadian -0.44
+q 1835-01-30 Delhi +1.24 Lahore +1.20 Qadian +1.19
+q 1839-02-14 Delhi -0.65 Lahore -0.66 Qadian -0.66
+q 1839-02-15 Delhi +1.24 Lahore +1.23 Qadian +1.22
+q 1842-02-11 Delhi +0.16 Lahore +0.18 Qadian +0.17
+q 1842-02-12 Delhi +1.72 Lahore +1.73 Qadian +1.73
