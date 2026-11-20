@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the working paper."
+title: "Calendar code for The Date of Birth of Mirza Ghulam Ahmad in the Light of the Evidence"
+authors:
+  - family-names: "Rizwan"
+    given-names: "Sheikh Muhammad"
+license: MIT
+url: "https://archive.org/details/mirza-ghulam-ahmad-date-of-birth"
+repository-code: "https://github.com/smmrizwan/mirza-ghulam-ahmad-date-of-birth"
+preferred-citation:
+  type: report
+  title: "The Date of Birth of Mirza Ghulam Ahmad in the Light of the Evidence"
+  authors:
+    - family-names: "Rizwan"
+      given-names: "Sheikh Muhammad"
+  year: 2026
+  url: "https://archive.org/details/mirza-ghulam-ahmad-date-of-birth"
